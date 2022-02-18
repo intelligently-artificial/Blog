@@ -1,0 +1,13 @@
+.container {
+    
+    text-align:center;
+    /*background-color : rgb(81, 167, 167);*/
+} 
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+
+
